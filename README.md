@@ -1,6 +1,7 @@
 <!---
 {
   "id": "2263c4f5-5034-48fa-beef-3d204473069c",
+  "teaches": "Parsing Options with `getopt`",
   "depends_on": ["5adc24d3-4054-453e-80dd-30a820be8ed3"],
   "author": "Stephan Bökelmann",
   "first_used": "2025-06-26",
